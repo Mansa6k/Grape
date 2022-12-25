@@ -31,14 +31,11 @@ pip install questionary
 The application will prompt the user for the following:
 **File Path, Credit Score, Debt, Income, Loan, LTV**
 
-![Loan Qualifier Prompts](images/loan_qualifier.png)
 
 The application will calculate and display the following:
 **DTI, LTV and number of qualified loans**
 
 The app then gives the user option to save to CSV:
-
-![Loan Qualifier Results](images/results.png)
 
 
 
